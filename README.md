@@ -1,4 +1,4 @@
-<!--[![MasterHead](https://media.tenor.com/cKgOapMuyWcAAAAM/coding-developer-code.gif)](https://shuhratshoymardonov.io)-->
+[![MasterHead](https://github.com/ShuhratShoymardonov/shuhratshoymardonov/blob/main/1.png)](https://shuhratshoymardonov.io)
 <h1 align="center">Hi 👋, I'm Shuhrat</h1>
 <h3 align="center">A passionate frontend developer from Tajikistan</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUvPwcjrYNWQG10Chtdy23kd9_dJTmL_M9w&s.gif">
